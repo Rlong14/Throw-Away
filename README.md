@@ -1,5 +1,7 @@
 # Throw Away
 
+> Notes by Rebecca Long
+
 The line above is equivalent to an `<h1>Throw Away<\h1>` HTML markup.
 
 The idea of markdown files is to make it easier to write text that you want to have *some* sort of  **richness* to it, but don't want to get hung up on the details of markup (HTML) or having to resort to more "binary" representation such as in MS Word.
